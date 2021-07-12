@@ -1,0 +1,17 @@
+titlebar-nav {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    background-color: #bbb8b2;
+    padding-bottom: 0.2rem;
+    padding-left: 1rem;
+    color: #2e2e3a;
+}
+
+h2, h3, h4, h5, h6 {
+    padding-bottom: 0.2rem;
+    padding-left: 1rem;
+    color: #2e2e3a;
+}

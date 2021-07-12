@@ -1,0 +1,29 @@
+.cover {
+    background-color: white;
+    text-align: center;
+    border: solid black;
+    border-width: 1 1px;
+    height: 95%;
+    width: 95%;
+    padding-top: 2rem;
+}
+
+.book {
+    background-color: grey;
+    text-align: center;
+    border-right: solid black;
+    border-bottom: solid black;
+    border-width: 1 1px;
+    height: 375px;
+    width: 100%;
+    border-bottom-left-radius: 8%;
+    border-top-right-radius: 8%;
+}
+
+.title {
+    padding: 20%;
+}
+
+.description {
+    padding: 10% 5% 50% 5%;
+}
